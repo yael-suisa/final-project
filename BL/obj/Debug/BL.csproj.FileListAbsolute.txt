@@ -1,0 +1,41 @@
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\yael1\Downloads\project01-master (1)\project01-master\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yael1\Downloads\project\project01-master\BL\bin\Debug\BL.dll
+C:\Users\yael1\Downloads\project\project01-master\BL\bin\Debug\BL.pdb
+C:\Users\yael1\Downloads\project\project01-master\BL\bin\Debug\DAL.dll
+C:\Users\yael1\Downloads\project\project01-master\BL\bin\Debug\Project01_7735_5114_dotNet5780.dll
+C:\Users\yael1\Downloads\project\project01-master\BL\bin\Debug\DS.dll
+C:\Users\yael1\Downloads\project\project01-master\BL\bin\Debug\DAL.pdb
+C:\Users\yael1\Downloads\project\project01-master\BL\bin\Debug\Project01_7735_5114_dotNet5780.pdb
+C:\Users\yael1\Downloads\project\project01-master\BL\bin\Debug\DS.pdb
+C:\Users\yael1\Downloads\project\project01-master\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\yael1\Downloads\project\project01-master\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yael1\Downloads\project\project01-master\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yael1\Downloads\project\project01-master\BL\obj\Debug\BL.dll
+C:\Users\yael1\Downloads\project\project01-master\BL\obj\Debug\BL.pdb
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\bin\Debug\BL.dll
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\bin\Debug\BL.pdb
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\bin\Debug\DAL.dll
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\bin\Debug\Project01_7735_5114_dotNet5780.dll
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\bin\Debug\DS.dll
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\bin\Debug\DAL.pdb
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\bin\Debug\Project01_7735_5114_dotNet5780.pdb
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\bin\Debug\DS.pdb
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\obj\Debug\BL.dll
+C:\Users\yael1\Downloads\גירסא 1\project01-master\BL\obj\Debug\BL.pdb
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\bin\Debug\BL.dll
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\bin\Debug\BL.pdb
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\bin\Debug\DAL.dll
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\bin\Debug\Project01_7735_5114_dotNet5780.dll
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\bin\Debug\DS.dll
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\bin\Debug\DAL.pdb
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\bin\Debug\Project01_7735_5114_dotNet5780.pdb
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\bin\Debug\DS.pdb
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\obj\Debug\BL.dll
+C:\Users\yael1\OneDrive\Desktop\גירסא 1\project01-master\BL\obj\Debug\BL.pdb

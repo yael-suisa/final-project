@@ -1,0 +1,57 @@
+﻿<Window x:Class="PL1.addGuestRequest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL1"
+        mc:Ignorable="d"
+        Title="addGuestRequest" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="215*"/>
+
+        </Grid.ColumnDefinitions>
+        <Button Content="סיום" HorizontalAlignment="Left" Margin="63,362,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Background="#FF35AE1D"/>
+        <TextBox x:Name="privateName" HorizontalAlignment="Left" Height="23" Margin="532,45,0,0" TextWrapping="Wrap" Text="שם פרטי" VerticalAlignment="Top" Width="120" TextChanged="PrivateName_TextChanged_1"/>
+        <TextBox x:Name="family" HorizontalAlignment="Left" Height="23" Margin="532,87,0,0" TextWrapping="Wrap" Text="שם משפחה" VerticalAlignment="Top" Width="120" TextChanged="Family_TextChanged"/>
+        <TextBox x:Name="mail" HorizontalAlignment="Left" Height="23" Margin="532,204,0,0" TextWrapping="Wrap" Text="מייל" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="adult" HorizontalAlignment="Left" Height="23" Margin="532,131,0,0" TextWrapping="Wrap" Text="מבוגרים" VerticalAlignment="Top" Width="120" TextChanged="Adult_TextChanged"/>
+        <TextBox x:Name="children" HorizontalAlignment="Left" Height="23" Margin="532,165,0,0" TextWrapping="Wrap" Text="ילדים" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.716,-1.034" TextChanged="Children_TextChanged"/>
+        <ComboBox x:Name="StatusCmb" HorizontalAlignment="Left" Margin="209,175,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="StatusCmb_SelectionChanged" />
+        <DatePicker x:Name="registration" HorizontalAlignment="Left" Margin="532,263,0,0" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="entry" HorizontalAlignment="Left" Margin="532,302,0,0" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="release" HorizontalAlignment="Left" Margin="532,342,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="areaCmb" HorizontalAlignment="Left" Margin="209,319,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="AreaCmb_SelectionChanged"/>
+        <ComboBox x:Name="TypeCmb" HorizontalAlignment="Left" Margin="209,362,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="TypeCmb_SelectionChanged"/>
+        <ComboBox x:Name="poolCmb" HorizontalAlignment="Left" Margin="209,86,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="PoolCmb_SelectionChanged"/>
+        <ComboBox x:Name="jacuzziCmb" HorizontalAlignment="Left" Margin="209,37,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="JacuzziCmb_SelectionChanged"/>
+        <ComboBox x:Name="gardenCmb" HorizontalAlignment="Left" Margin="209,129,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="GardenCmb_SelectionChanged" RenderTransformOrigin="2.34,-1.734"/>
+        <ComboBox x:Name="childrensAttractionsCmb" HorizontalAlignment="Left" Margin="209,227,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ChildrensAttractionsCmb_SelectionChanged"/>
+        <ComboBox x:Name="smockingCmb" HorizontalAlignment="Left" Margin="209,269,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="SmockingCmb_SelectionChanged" RenderTransformOrigin="0.5,0.5"/>
+        <CheckBox x:Name="accessible" Content="נגישות לנכים" HorizontalAlignment="Left" Margin="63,302,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="jacuzziLl" Content="ג'קוזי" HorizontalAlignment="Left" Height="34" Margin="363,30,0,0" VerticalAlignment="Top" Width="93" FontSize="14"/>
+        <Label x:Name="poolLl" Content="בריכה" HorizontalAlignment="Left" Height="26" Margin="360,84,0,0" VerticalAlignment="Top" Width="68" FontSize="14"/>
+        <Label x:Name="gardenLl" Content="גינה" HorizontalAlignment="Left" Height="25" Margin="360,129,0,0" VerticalAlignment="Top" Width="68" FontSize="14"/>
+        <Label x:Name="StatusLl" Content="סטטוס" HorizontalAlignment="Left" Height="32" Margin="361,172,0,0" VerticalAlignment="Top" Width="68" FontSize="14"/>
+        <Label x:Name="childrensAttractionsLl" Content="אטרקציות לילדים" HorizontalAlignment="Left" Height="35" Margin="355,221,0,0" VerticalAlignment="Top" Width="124" FontSize="14"/>
+        <Label x:Name="smocking" Content="פינת עישון" HorizontalAlignment="Left" Height="45" Margin="352,267,0,0" VerticalAlignment="Top" Width="96" FontSize="14"/>
+        <Label x:Name="area" Content="אזור" HorizontalAlignment="Left" Height="40" Margin="352,317,0,0" VerticalAlignment="Top" Width="68" FontSize="14"/>
+        <Label x:Name="Type" Content="מה אתם מחפשים" HorizontalAlignment="Left" Height="48" Margin="352,362,0,0" VerticalAlignment="Top" Width="127" FontSize="14"/>
+        <Image HorizontalAlignment="Left" Height="304" Margin="674,37,0,0" VerticalAlignment="Top" Width="89">
+            <Image.OpacityMask>
+                <ImageBrush TileMode="Tile"/>
+            </Image.OpacityMask>
+        </Image>
+        <Image Margin="581,147,-71.4,138" Source="InkedFamily-Vacation-Critic_LI.jpg" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.908"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+    </Grid>
+</Window>
